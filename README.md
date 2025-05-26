@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Pedro Andriola!
 
-Sou um DevOps em constante aprendizado e desenvolvimento. Minha paixão é criar, automatizar, agilizar e melhorar soluções  que ajudem a melhorar a vida das pessoas.
+Site Reliability Engineer focado em automação, escalabilidade e resiliência de sistemas distribuídos. Com experiência em infraestrutura como código, observabilidade, pipelines CI/CD e cultura DevOps, busco continuamente melhorar a performance, confiabilidade e eficiência das plataformas que opero.
 
 ## 🧑‍💻 Sobre Mim
 
