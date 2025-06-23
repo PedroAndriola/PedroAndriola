@@ -11,9 +11,9 @@ Site Reliability Engineer focado em automação, escalabilidade e resiliência d
 ## 🔧 Tecnologias e Ferramentas
 
 - **Linguagens**: Python, Go, JavaScript
-- **Frameworks**: Flask, Django, FastAPI
+- **Frameworks**: Flask, Django, FastAPI, Komg
 - **Banco de Dados**: MySQL, PostgreSQL
-- **DevOps**: Docker, Kubernetes, CI/CD
+- **DevOps**: Docker, Kubernetes, CI/CD, AWS, Azure, Terraform, Bicep, Postman, gRPC
 - **Outras ferramentas**: Git, GitHub, VS Code
 
 ## 📂 Projetos em Destaque
