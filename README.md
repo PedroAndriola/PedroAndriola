@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Pedro Andriola!
+# 👋 Olá, eu sou o Pedro Henrique!
 
 Site Reliability Engineer focado em automação, escalabilidade e resiliência de sistemas distribuídos. Com experiência em infraestrutura como código, observabilidade, pipelines CI/CD e cultura DevOps, busco continuamente melhorar a performance, confiabilidade e eficiência das plataformas que opero.
 
